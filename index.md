@@ -3,10 +3,7 @@ title: Home
 banner_image: "/uploads/2018/06/05/9e7275dd-boys-chorus-795x530.jpg"
 layout: landing-page
 heading: Kapiti College
-partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+partners: []
 services:
 - heading: Test
   description: Test
